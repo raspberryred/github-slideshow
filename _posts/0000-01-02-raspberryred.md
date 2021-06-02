@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+If markdown is supported, following should look like code : `Print my name!`
 Use the left arrow to go back!
